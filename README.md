@@ -18,4 +18,4 @@ Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 Từ camera lấy hình ảnh + thông tin người đăng ký, check cam có mờ không|Võ Hoàng Thông|12/05/23
 Training máy|Hồ Tuấn Khoa|12/05/23
 Test xem có phải người đã đăng kí hay không, nếu có thì in ra thông tin|Nguyễn Thanh Hậu|12/05/23
-Đưa tất cả lên streamlit|Lê Nguyễn Thanh Huy|12/05/23
+Đưa tất cả lên streamlit|Lê Võ Minh Quân|12/05/23
