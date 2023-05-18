@@ -19,5 +19,5 @@ Training máy|Hồ Tuấn Khoa|12/05/23
 Test xem có phải người đã đăng kí hay không, nếu có thì in ra thông tin|Nguyễn Thanh Hậu|12/05/23
 Đưa tất cả lên streamlit|tất cả|12/05/23
 
-#Link:
+##Link:
 https://khongcotenct2-khongcoten-app-6irgwz.streamlit.app/
