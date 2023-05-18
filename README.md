@@ -20,5 +20,4 @@ Test xem có phải người đã đăng kí hay không, nếu có thì in ra th
 Đưa tất cả lên streamlit|tất cả|12/05/23
 
 
-#Link:
-##https://khongcotenct2-khongcoten-app-6irgwz.streamlit.app/
+Link:https://khongcotenct2-khongcoten-app-6irgwz.streamlit.app/
